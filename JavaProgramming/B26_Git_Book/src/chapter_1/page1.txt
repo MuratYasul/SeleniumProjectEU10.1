@@ -3,4 +3,5 @@ NEW DAY OF GIT AND GITHUB
 This is the start of my book.
 Page 1 will help us get started.
 Java is cool!
+
 God is always with us.
