@@ -1,6 +1,6 @@
 
-Welcome to git
+Welcome to git!
 
-I hope you are having fun
+I hope you are having fun.
 
-Missing Java maybe
+Missing Java maybe.
