@@ -1,5 +1,5 @@
 
-Welcome to git!
+Welcome to GIT!
 
 I hope you are having fun.
 
