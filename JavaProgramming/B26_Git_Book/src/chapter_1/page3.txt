@@ -1,11 +1,8 @@
 
-Welcome to GIT!
+Welcome to git!
 
 I hope you are having fun.
 
-Should learn Java well...
+Missing Java, maybe.
 
 All is well!
-
-
-heyyyy
