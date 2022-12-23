@@ -1,0 +1,29 @@
+Git Terms_Repository
+
+Repository : it's just a folder that git keeps track of changes
+-Local Repository:
+    The repository on your computer(hidden .git folder)
+-Remote Repository:
+The repository in [GitHub](http://github.com)
+
+Git Terms-Commit
+
+>Commit: List of changes you saved in to your local git repository
+-the changes you made
+-the author of this commit
+    - the comment to describe what has changed : "commit message"
+
+Flow of a new project
+
+/. Create a local repository
+    the hidden .git folder would be made to keep track of changes
+
+/. Create a file / update file
+    make a file with some information
+    or update an existing file
+/. Commit changes
+    Commit to the local repository with a proper commit message
+
+/. Link / Push to remote repository
+    Connect to a GitHub repository and push the changes
+
