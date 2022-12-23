@@ -8,7 +8,7 @@ public class SeleniumTest_2 {
     public static void main(String[] args) {
 
 
- WebDriverManager.edgedriver().setup();
+        WebDriverManager.edgedriver().setup();
         WebDriver driver = new EdgeDriver();
         driver.get("https://www.microsoft.com");
 //
