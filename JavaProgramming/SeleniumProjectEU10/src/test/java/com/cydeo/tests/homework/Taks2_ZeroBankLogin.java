@@ -35,6 +35,9 @@ public class Taks2_ZeroBankLogin {
             System.out.println("Header Text Verification FAILED!!!!!");
         }
         driver.close();
+
+
+        ///deneme
     }
 
 }
